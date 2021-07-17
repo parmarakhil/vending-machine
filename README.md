@@ -8,18 +8,24 @@ Periodically, engineers may service the vending machine by re-filling products, 
 The requirements document above is only an overview of the system. It does not incorporate every aspect of the system's functionality. You must use common sense / assumptions along with the GOAD process to define parts of the system that are poorly described. 
 
 <p>
+  
+  <h4>Sequence diagram</h4>
   <img src="https://github.com/parmarakhil/vending-machine/blob/main/UML%20Sequence%20diagram.png" alt="Sequence diagram" >
   <br>
   <br>
   
+  <h4>UseCase diagram</h4>
   <img src="https://github.com/parmarakhil/vending-machine/blob/main/UML%20Use%20Case.png" alt="Usecase diagram" >
   <br>
   <br>
   
+  
+  <h4>Activity diagram</h4>
   <img src="https://github.com/parmarakhil/vending-machine/blob/main/UML%20activity%20diagram.png" alt="Activity diagram" >
   <br>
   <br>
   
+  <h4>Class diagram</h4>
   <img src="https://github.com/parmarakhil/vending-machine/blob/main/UML%20class%20diagram.png" alt="Class diagram" >
   <br>
   <br>
